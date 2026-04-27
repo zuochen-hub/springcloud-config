@@ -1,0 +1,4 @@
+config:
+  info: "master branch, version=1.0"
+  age: 18
+  version: 1.0
